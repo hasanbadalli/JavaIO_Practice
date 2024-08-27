@@ -1,0 +1,1 @@
+Employee{id=35, name='Ronald', surname='Green', age=50, salary=92000.0, department=EXECUTIVE, isEmployer=true, startDate=1999-12-01, email='ronald.green@example.com', phoneNumber='7890123456', position=EXECUTIVE, address='2323 Cedar St'}
